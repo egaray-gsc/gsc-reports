@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.84,
+    "performance": 0.61,
+    "accessibility": 0.84,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/a-fondo",
+    "score": 0.85,
+    "performance": 0.61,
+    "accessibility": 0.88,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/alminuto",
+    "score": 0.86,
+    "performance": 0.62,
+    "accessibility": 0.88,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/avisolegal.html",
+    "score": 0.82,
+    "performance": 0.77,
+    "accessibility": 0.84,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/ciencia",
+    "score": 0.79,
+    "performance": 0.72,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/ciencia/20260416/11515167/aumento-nivel-mar-reduce-opciones-salvar-venecia.html",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/comer",
+    "score": 0.83,
+    "performance": 0.66,
+    "accessibility": 0.8,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/comer/al-dia/20260407/11503134/javier-olleros-senalamos-culpa-deja-tierra-dolor-miedo.html",
+    "score": 0.93,
+    "performance": 0.81,
+    "accessibility": 0.94,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/comer/al-dia/20260416/11514049/mas-napolitana-pizzas-italia.html",
+    "score": 0.88,
+    "performance": 0.82,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/comer/materia-prima/20260415/11512886/doblan-campanas-salmon-asturiano.html",
+    "score": 0.89,
+    "performance": 0.85,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/comer/recetas/20260416/11513987/coliflor-ofrecerte-5-recetas-divertirte-beneficiosa-crucifera.html",
+    "score": 0.91,
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "best-practices": 0.96,
+    "seo": 0.92
+  },
+  {
+    "path": "/comer/tendencias/20260416/11513907/parece-vez-hay-mas-gente-opta-comer-vez-dia.html",
+    "score": 0.94,
+    "performance": 0.83,
+    "accessibility": 0.97,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/comprar",
+    "score": 0.77,
+    "performance": 0.64,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/comprar/comparativas/",
+    "score": 0.78,
+    "performance": 0.62,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/comprar/cultura-ocio/20260416/11514244/sant-jordi-libro-tradicional-kindle-bigme-ereaders-mkt-alie.html",
+    "score": 0.78,
+    "performance": 0.75,
+    "accessibility": 0.82,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/comprar/finanzas/20260213/11465784/mejores-cuentas-remuneradas-mkt-klt.html",
+    "score": 0.84,
+    "performance": 0.79,
+    "accessibility": 0.81,
+    "best-practices": 0.92,
+    "seo": 0.85
+  },
+  {
+    "path": "/comprar/finanzas/20260416/11514819/cuales-son-mejores-promociones-bancarias-consigue-1-200-euros-abrir-cuenta-corriente-mkt-hmc.html",
+    "score": 0.8,
+    "performance": 0.74,
+    "accessibility": 0.86,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/comprar/mas-valorados",
+    "score": 0.87,
+    "performance": 0.66,
+    "accessibility": 0.88,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/comprar/mas-valorados/20240205/8697357/mejores-maquinas-palomitas-comparativa-mkt-eo.html",
+    "score": 0.83,
+    "performance": 0.85,
+    "accessibility": 0.86,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/comprar/mas-valorados/20260414/11505999/mejores-freidoras-aire-comparativas-mkt-eo.html",
+    "score": 0.8,
+    "performance": 0.83,
+    "accessibility": 0.81,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/comprar/mas-valorados/20260415/11512331/mejores-omega-3-comparativas-mkt-eo.html",
+    "score": 0.79,
+    "performance": 0.79,
+    "accessibility": 0.81,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/comprar/mas-valorados/20260416/11514953/mejores-robots-aspiradores-friegasuelos-comparativa-mkt-eo.html",
+    "score": 0.79,
+    "performance": 0.79,
+    "accessibility": 0.81,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/comprar/moda-belleza/20260416/11513897/joyas-pandora-vas-dejar-ver-primavera-piezas-estrella-temporada-mkt-pand.html",
+    "score": 0.87,
+    "performance": 0.76,
+    "accessibility": 0.86,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/comprar/moda-belleza/20260416/11514098/vayas-descalzo-hogar-mejores-zapatillas-casa-mas-comodas-primavera.html",
+    "score": 0.81,
+    "performance": 0.78,
+    "accessibility": 0.86,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/comprar/moda-belleza/20260416/11515306/dockers-tira-casa-ventana-rebajas-primavera-pantalones-chinos-comodos-versatiles-62-mkt-dock.html",
+    "score": 0.78,
+    "performance": 0.76,
+    "accessibility": 0.81,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/comprar/rebajas-ofertas/20260416/11512604/samsung-galaxy-a17-amoled-5000mah-esta-bajando-demuestra-basico-mas-suficiente-mkt-alie.html",
+    "score": 0.85,
+    "performance": 0.71,
+    "accessibility": 0.86,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/comprar/tecnologia/20260416/11513003/motorola-pone-oferta-telefonos-esta-cansado-moviles-caros-baterias-flojas-mkt-alie.html",
+    "score": 0.83,
+    "performance": 0.84,
+    "accessibility": 0.86,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/contacto.html",
+    "score": 0.83,
+    "performance": 0.76,
+    "accessibility": 0.91,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/cookies-privacy-LV-popup.html",
+    "score": 0.81,
+    "performance": 0.74,
+    "accessibility": 0.84,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/cribeo",
+    "score": 0.81,
+    "performance": 0.64,
+    "accessibility": 0.92,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/cultura",
+    "score": 0.8,
+    "performance": 0.67,
+    "accessibility": 0.85,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260415/11514483/guitarricadelafuente-invitado-confesionario-segundo-concierto-rosalia-barcelona.html",
+    "score": 0.88,
+    "performance": 0.77,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11513352/diez-anos-bcn-film-fest-festival-trae-barcelona-estrellas-hollywood.html",
+    "score": 0.91,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11514563/cccb-llucia-ramis-jordi-amat-vivienda-turismo.html",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515016/sant-jordi-rambla-nuevo-eje-literario-portal-angel.html",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515102/seleccion-natural-ultimos-10000-anos-eurasia-favorecido-piel-clara-cabello-pelirrojo-resistencia-vih-lepra.html",
+    "score": 0.96,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515111/dolors-miquel-premio-jaume-fuster-aelc-trayectoria-literaria.html",
+    "score": 0.89,
+    "performance": 0.84,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515342/willem-dafoe-me-interesara-dinero-mi-carrera-habria-sido-diferente.html",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515362/festival-offf-arranca-objetivo-fuente-inspiracion-creatividad-digital.html",
+    "score": 0.89,
+    "performance": 0.83,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515571/bautizo-rosalia-libro-maricel-chavarria-esteban-lines-ricard-robles-casa-cupra-raval.html",
+    "score": 0.94,
+    "performance": 0.85,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/20260416/11515697/operaciondedicatoria.html",
+    "score": 0.89,
+    "performance": 0.87,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/cine/20260416/11515539/ousman-umar-dormi-calles-barcelona-hoy-inauguro-festival-cine.html",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/culturas",
+    "score": 0.86,
+    "performance": 0.67,
+    "accessibility": 0.85,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/cultura/libros/20260416/11514802/despentes-levy-beigbeder-otros-112-autores-abandonan-editorial-grasset.html",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes",
+    "score": 0.74,
+    "performance": 0.6,
+    "accessibility": 0.74,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/deportes/20260415/11514451/torneo-nacen-leyendas-tenis-brl.html",
+    "score": 0.8,
+    "performance": 0.68,
+    "accessibility": 0.86,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/deportes/20260416/11515513/pensaba-fake-new-aficion-ue-cornella-sorprendida-e-ilusionada-compra-leo-messi.html",
+    "score": 0.88,
+    "performance": 0.79,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/20260416/11515722/deberes-madrid-barca.html",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/20260416/11515732/caiga-noche.html",
+    "score": 0.88,
+    "performance": 0.85,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/baloncesto/20260416/11515525/svetislav-pesic-barca-palau-retirada.html",
+    "score": 0.89,
+    "performance": 0.82,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/fc-barcelona/20260416/11514477/barca-causas-fichajes-consecuencias-eliminatoria-europea-champions-atletico-de-madrid.html",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/fc-barcelona/20260416/11515339/leo-messi-compra-ue-cornella.html",
+    "score": 0.98,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/fc-barcelona/20260416/11515488/barca-insiste-quejarse-uefa-nuevo-comunicado.html",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/futbol/20260416/11515475/natxo-gonzalez-entrenador-ue-sant-andreu-ingresado-sufrir-infarto.html",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/futbol/20260416/11515574/braga-acaba-sueno-europeo-betis-mete-semifinales.html",
+    "score": 0.95,
+    "performance": 0.83,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/futbol/20260416/11515575/rayo-vallecano-historia-clasificacion-semifinales.html",
+    "score": 0.89,
+    "performance": 0.84,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/futbol/20260416/11515577/friburgo-aplasta-celta-mete-semifinales-europa-league.html",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/golf/20260416/11515161/liv-mexico-cierre-rahm-pif.html",
+    "score": 0.89,
+    "performance": 0.83,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/resultados",
+    "score": 0.89,
+    "performance": 0.69,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/tenis/20260415/11514364/alcaraz-tristemente-seguir-torneo.html",
+    "score": 0.87,
+    "performance": 0.73,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/tenis/20260416/11515071/roberto-bautista-anuncia-retirada-he-vivido-sueno-anos.html",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/tenis/20260416/11515195/rublev-da-opcion-sonego-e-iguala-mejor-resultado-barcelona.html",
+    "score": 0.9,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/tenis/20260416/11515493/musetti-blinda-bate-moutet-te-pone-alerta-saca-cuchara.html",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/deportes/tenis/20260416/11515563/noche-barcelonesa-arthur-fils.html",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/dinero",
+    "score": 0.8,
+    "performance": 0.64,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/20260412/11508772/enfoque-multidisciplinar-tecnologia-abordar-cancer-pulmon-patologias-respiratorias-brl.html",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/20260416/11514813/repsol-recupera-control-activos-venezuela-triplicara-produccion-pais.html",
+    "score": 0.95,
+    "performance": 0.82,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/20260416/11515444/defensa-rechaza-recurso-santa-barbara-dos-contratos-directos-indra-escribano-7-200-millones.html",
+    "score": 0.9,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/bolsillo/20260414/11512125/inversion-empresas-indices-bolsillo-podcast-pca.html",
+    "score": 0.88,
+    "performance": 0.83,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/bolsillo/20260415/11513577/desgravar-alquiler-declaracion-renta-pca.html",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/bolsillo/20260416/11511500/padres-pensionistas-cobrar-pca.html",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/dinero/bolsillo/20260416/11513064/renta-2025-2026-declaracion-deducciones-importantes-pca.html",
+    "score": 0.96,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/economia",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260415/11514347/que-esta-pasando-economia-dilema-preocupa-bancos-centrales-brl.html",
+    "score": 0.9,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260416/11502263/guia-completa-entender-campana-renta-novedades.html",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260416/11514376/porcentaje-jovenes-vivienda-propiedad-cae-mitad-apenas-decada.html",
+    "score": 0.97,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260416/11514958/catalunya-empleo-paro-idescat-afiliacion-guerra-iran-marzo.html",
+    "score": 0.86,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260416/11515169/espana-inflacion-europa-eurozona-marzo-guerra-iran.html",
+    "score": 0.91,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260416/11515495/powell-esta-listo-seguir-fed-pesar-trump.html",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/economia/20260416/11515500/europa-combustible-aviones-seis-semanas-aie.html",
+    "score": 0.9,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/empresas-de-vanguardia",
+    "score": 0.8,
+    "performance": 0.63,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/empresas-de-vanguardia/directorio",
+    "score": 0.8,
+    "performance": 0.67,
+    "accessibility": 0.92,
+    "best-practices": 0.96,
+    "seo": 0.66
+  },
+  {
+    "path": "/empresas-de-vanguardia/historias-de-exito/20260125/11432042/arturo-lopez-preparador-oposiciones-gente-oposita-acabar-carrera-busca-estabilidad-anos-sector-privado.html",
+    "score": 0.87,
+    "performance": 0.81,
+    "accessibility": 0.97,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/en-mejora-continua",
+    "score": 0.8,
+    "performance": 0.63,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/encatala",
+    "score": 0.8,
+    "performance": 0.62,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/etc/calculadoras/calcula-tu-sueldo",
+    "score": 0.88,
+    "performance": 0.83,
+    "accessibility": 0.94,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/fotos",
+    "score": 0.8,
+    "performance": 0.63,
+    "accessibility": 0.87,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515178/rodolfo-sancho-salida-juicio-exmujer-hubiese-querido-vejar-senora-bronchalo-hubiese-dicho-mas-soez.html",
+    "score": 0.9,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515237/victoria-beckham-rompe-silencio-sobre-ruptura-hijo-brooklyn.html",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515258/muere-elsa-landabaso-mujer-exfutbolista-julen-guerrero.html",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515343/increible-transformacion-tom-cruise-nuevo-proyecto.html",
+    "score": 0.91,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515440/adrian-rodriguez-actor-fisica-quimica-detenido-malaga-dos-dias-paradero-desconocido.html",
+    "score": 0.95,
+    "performance": 0.84,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515441/carles-puyol-ponente-congreso-restaurar-masculinidad-virtuosa-disenada-dios.html",
+    "score": 0.91,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/gente/20260416/11515541/khloe-kardashian-lamar-odom-reavivan-conflicto-documental-sobre-sobredosis-exjugador.html",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/gourmetlv/es",
+    "score": 0.76,
+    "performance": 0.56,
+    "accessibility": 0.86,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/hemeroteca",
+    "score": 0.76,
+    "performance": 0.54,
+    "accessibility": 0.79,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/historiayvida",
+    "score": 0.77,
+    "performance": 0.63,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/horoscopo",
+    "score": 0.8,
+    "performance": 0.64,
+    "accessibility": 0.84,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional",
+    "score": 0.81,
+    "performance": 0.65,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11510426/jeff-sharlet-trump-cree-obra-dios-trampas.html",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11514525/elly-schlein-lider-pd-italiano-derechas-nacionalistas-europa-acabado.html",
+    "score": 0.98,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11514777/guerra-iran-ataque-estados-unidos-trump-israel-teheran-hoy-en-directo.html",
+    "score": 0.78,
+    "performance": 0.68,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/internacional/20260416/11514892/orban-ausentara-ultima-cumbre-europea-evita-dar-cara-anos-bloqueos.html",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515036/ice-detiene-mujer-francesa-86-anos-muriera-marido-estadounidense.html",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515174/cito-pete-hegseth-monologo-pulp-fiction-confundiendolo-biblia.html",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515213/el-kremlin-relativiza-que-ee-uu-reanude-las-sanciones-contra-el-petroleo-ruso.html",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515234/papa-camerun-mundo-esta-siendo-destruido-pocos-tiranos.html",
+    "score": 0.97,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515312/bukele-aprueba-reforma-permitir-cadena-perpetua-menores-12-anos.html",
+    "score": 0.88,
+    "performance": 0.8,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515321/beirut-bombas-asi-sufre-ciudad-consecuencias-guerra.html",
+    "score": 0.87,
+    "performance": 0.76,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515366/trump-anuncia-alto-fuego-libano-10-dias.html",
+    "score": 0.96,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/20260416/11515454/europa-ofrece-tercera-reabrir-ormuz-busca-aliados.html",
+    "score": 0.89,
+    "performance": 0.82,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/internacional/vanguardia-dossier/revista/20260416/11488233/china-afronta-transformacion-economica-tecnologica-social-apenas-parangon-historia.html",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/juegos",
+    "score": 0.74,
+    "performance": 0.45,
+    "accessibility": 0.87,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/juegos/es/diferencias",
+    "score": 0.73,
+    "performance": 0.39,
+    "accessibility": 0.87,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/juegos/es/lexireto",
+    "score": 0.73,
+    "performance": 0.4,
+    "accessibility": 0.87,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/juegos/es/quiz/historia-y-geografia",
+    "score": 0.73,
+    "performance": 0.4,
+    "accessibility": 0.87,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/juegos/es/words",
+    "score": 0.74,
+    "performance": 0.42,
+    "accessibility": 0.87,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/lacontra",
+    "score": 0.81,
+    "performance": 0.65,
+    "accessibility": 0.87,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/lacontra/20260417/11515551/anna-fedorova-no-tocaria-musica-putin.html",
+    "score": 0.76,
+    "performance": 0.63,
+    "accessibility": 0.81,
+    "best-practices": 0.73,
+    "seo": 0.85
+  },
+  {
+    "path": "/launi",
+    "score": 0.81,
+    "performance": 0.66,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/launi/20260416/11514927/nueva-herramienta-permite-seguir-crecimiento-altura-ciudades-catalunya.html",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/libros-de-vanguardia",
+    "score": 0.79,
+    "performance": 0.63,
+    "accessibility": 0.85,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local",
+    "score": 0.82,
+    "performance": 0.64,
+    "accessibility": 0.9,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/baleares/20260416/11515224/muere-despenado-turista-mallorca-hacia-excursion-tramuntana.html",
+    "score": 0.9,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/barcelona",
+    "score": 0.8,
+    "performance": 0.66,
+    "accessibility": 0.85,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local/barcelona/20260416/11515164/ildefons-cerda-tendra-monumento-plaza-universitat-primer-semestre-2027.html",
+    "score": 0.91,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/barcelona/20260416/11515348/comerciantes-piden-reforma-pelai-ayuntamiento-pospone-proximo-mandato.html",
+    "score": 0.91,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/castilla-leon/20260416/11515439/condenan-mujer-ano-cuatro-meses-carcel-proferir-insultos-racistas-comedor-escolar-nietas.html",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/catalunya",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/local/girona/20260416/11515437/basureros-girona-anuncian-huelga-indefinida-partir-4-mayo.html",
+    "score": 0.86,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/madrid",
+    "score": 0.8,
+    "performance": 0.6,
+    "accessibility": 0.92,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local/madrid/20260416/11514834/jubilado-residencia-colmenar-viejo-traslado-forzoso-esta-generando-grave-impacto-mi-salud-ansiedad-e-insomnio.html",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/madrid/20260416/11515078/cinco-motivos-educadoras-escuelas-infantiles-siguen-huelga-madrid.html",
+    "score": 0.91,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/paisvasco",
+    "score": 0.8,
+    "performance": 0.64,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local/sevilla",
+    "score": 0.81,
+    "performance": 0.66,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia",
+    "score": 0.78,
+    "performance": 0.62,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia/20260416/11514096/reputacion-valenciana-corrupcion-vez-debate.html",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia/20260416/11514149/inmigracion-perspectiva.html",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia/20260416/11514292/alicia-regresa-valencia-convertida-espejo-contemporaneo-imaginacion-rebeldia.html",
+    "score": 0.93,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia/20260416/11514840/miles-alicantinos-peregrinan-santa-faz-consell-declara-interes-cultural.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia/20260416/11515270/educacion-aplaza-subida-salarial-desata-amenaza-huelga-indefinida-valencia.html",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/local/valencia/20260416/11515449/tsjcv-anula-parte-moratoria-ayuntamiento-apartamentos-turisticos.html",
+    "score": 0.91,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/lugaresdeaventura",
+    "score": 0.81,
+    "performance": 0.66,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/magazine",
+    "score": 0.76,
+    "performance": 0.65,
+    "accessibility": 0.77,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/magazine/casa/20260416/11513570/casa-decor-2026-asi-edicion-mas-espiritual-sensorial-interiorismo-madrid.html",
+    "score": 0.92,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/lifestyle/20260416/11512885/formula-alquiler-perfecto.html",
+    "score": 0.92,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/moda",
+    "score": 0.8,
+    "performance": 0.66,
+    "accessibility": 0.85,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/moda/20260415/11514527/voces-emergentes-disruptivas-080-barcelona-fashion.html",
+    "score": 0.89,
+    "performance": 0.81,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/moda/20260416/11515072/nuevo-truco-moda-actrices-hollywood-salir-noche.html",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/protagonistas/20260416/11515324/raimon-avila-tutor-tfg-rosalia-esmuc-principio-le-dije-le-llevaria-trabajo-tenia-clara-propuesta-me-convencio.html",
+    "score": 0.89,
+    "performance": 0.81,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/viajes",
+    "score": 0.77,
+    "performance": 0.62,
+    "accessibility": 0.77,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/viajes/20260415/11512254/genova-arte-seduccion-capital-liguria.html",
+    "score": 0.89,
+    "performance": 0.85,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/viajes/20260416/11511995/hoteles-extraordinarios-amantes-tenis.html",
+    "score": 0.89,
+    "performance": 0.83,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/viajes/20260416/11513260/ofertas-viajes-escapadas-vuelos-hoteles-low-cost-cts.html",
+    "score": 0.9,
+    "performance": 0.9,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/magazine/viajes/20260416/11514148/nocturismo-mejores-propuestas-mundo-viajar-noche.html",
+    "score": 0.91,
+    "performance": 0.94,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/mascotas",
+    "score": 0.77,
+    "performance": 0.66,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/monograficos",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/motor",
+    "score": 0.77,
+    "performance": 0.63,
+    "accessibility": 0.83,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/narrativas-visuales",
+    "score": 0.8,
+    "performance": 0.64,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/natural",
+    "score": 0.81,
+    "performance": 0.66,
+    "accessibility": 0.88,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/neo",
+    "score": 0.79,
+    "performance": 0.63,
+    "accessibility": 0.85,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion",
+    "score": 0.79,
+    "performance": 0.66,
+    "accessibility": 0.9,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/opinion/20260416/11514007/epidemia-piel-fina.html",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514008/been-mide.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514099/efecto-gol-margaritas.html",
+    "score": 0.92,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514106/ignorancia-politica.html",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514249/mendoza-dragon.html",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514333/cronica-pestillo-embestida-diputado-vox.html",
+    "score": 0.9,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514356/hombres-presidente-sanchez.html",
+    "score": 0.87,
+    "performance": 0.79,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514545/junts-resucita-debate-fiscal.html",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514571/barcelona-esta-moda.html",
+    "score": 0.88,
+    "performance": 0.84,
+    "accessibility": 0.97,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11514572/govern-cambia-puerta.html",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260416/11515635/serenidad-angel-guimera-barri-gotic.html",
+    "score": 0.89,
+    "performance": 0.89,
+    "accessibility": 0.95,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260417/11515512/revilla-espatarro.html",
+    "score": 0.9,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260417/11515555/riesgos-controles-redes-ia.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.99,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/opinion/20260417/11515570/rosalia-roto-molde.html",
+    "score": 0.88,
+    "performance": 0.82,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/otras-webs.html",
+    "score": 0.83,
+    "performance": 0.73,
+    "accessibility": 0.95,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/participacion",
+    "score": 0.8,
+    "performance": 0.63,
+    "accessibility": 0.87,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/participacion/debates/20260416/11512794/encuesta-rambla-conseguira-atraer-barceloneses-concluya-reforma.html",
+    "score": 0.75,
+    "performance": 0.7,
+    "accessibility": 0.89,
+    "best-practices": 0.5,
+    "seo": 0.92
+  },
+  {
+    "path": "/participacion/las-fotos-de-los-lectores/20260416/11513046/castillo-lladurs-observa-estrellas.html",
+    "score": 0.78,
+    "performance": 0.74,
+    "accessibility": 0.84,
+    "best-practices": 0.69,
+    "seo": 0.85
+  },
+  {
+    "path": "/participacion/las-fotos-de-los-lectores/20260416/11514016/duquesa-convertida-flor.html",
+    "score": 0.8,
+    "performance": 0.71,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/participacion/las-fotos-de-los-lectores/20260416/11514129/camino-celestial-overbooking-tortugas.html",
+    "score": 0.81,
+    "performance": 0.74,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/participacion/lectores-corresponsales/20260416/11513936/deporte-dragon-boat-mas-china.html",
+    "score": 0.79,
+    "performance": 0.66,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/participacion/red-lectores/20260416/11513981/lenguaje-erosion-parejas.html",
+    "score": 0.8,
+    "performance": 0.71,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/participacion/red-lectores/20260416/11514046/mas-bloqueo-literario.html",
+    "score": 0.81,
+    "performance": 0.73,
+    "accessibility": 0.89,
+    "best-practices": 0.69,
+    "seo": 0.92
+  },
+  {
+    "path": "/podcast",
+    "score": 0.81,
+    "performance": 0.62,
+    "accessibility": 0.9,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica",
+    "score": 0.8,
+    "performance": 0.65,
+    "accessibility": 0.87,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/politica-privacidad.html",
+    "score": 0.79,
+    "performance": 0.73,
+    "accessibility": 0.79,
+    "best-practices": 0.73,
+    "seo": 0.92
+  },
+  {
+    "path": "/politica/20260416/11514490/pp-vox-cierran-pacto-extremadura-vicepresidencia-consejeria-abascal.html",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11514509/libertad-pepe.html",
+    "score": 0.91,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.69,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11514513/pp-vox-abren-batalla-legal-decreto-regularizacion.html",
+    "score": 0.87,
+    "performance": 0.76,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515012/fiscalia-pide-impulso-querella-acoso-sexual-laboral-alcalde-mostoles.html",
+    "score": 0.9,
+    "performance": 0.88,
+    "accessibility": 0.97,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515015/cinco-expresidentes-socialistas-andalucia-daran-apoyo-montero-sabado.html",
+    "score": 0.87,
+    "performance": 0.74,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515154/oposicion-carga-ayuso-secretaria-presidencia-buscarle-pisazo.html",
+    "score": 0.93,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515171/espana-reafirma-total-oposicion-participar-ninguna-operacion-militar-estrecho-ormuz.html",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515180/parlament-rechaza-deduccion-parte-cuotas-gimnasio-actividades-deportivas-renta.html",
+    "score": 0.91,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515244/pesan-900-000-euros.html",
+    "score": 0.9,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515265/alianca-catalana-candidato-barcelona-presentara-sant-jordi.html",
+    "score": 0.92,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/politica/20260416/11515272/abascal-defiende-meloni-frente-trump-aliados-hay-atacarlos.html",
+    "score": 0.93,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.73,
+    "seo": 1
+  },
+  {
+    "path": "/pop",
+    "score": 0.8,
+    "performance": 0.66,
+    "accessibility": 0.85,
+    "best-practices": 0.69,
+    "seo": 1
+  }
+]
